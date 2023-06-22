@@ -1,0 +1,46 @@
+
+
+.container__menu-bar > ul{
+  display: flex;
+  flex-direction: row;
+}
+
+.container__menu-bar > ul > li{
+  margin-right: 20px;
+  list-style: none;
+}
+
+.a1{ 
+  border: 2px solid blue;
+  padding: 0 0.5rem;
+  border-radius: 5px;
+  color: white;
+}
+
+.a1:hover{
+  box-shadow: 2px 2px 15px blue;
+}
+
+.a2{ 
+  border: 2px solid green;
+  padding: 0 0.5rem;
+  border-radius: 5px;
+  color: white;
+}
+
+.a2:hover{
+  box-shadow: 2px 2px 15px green;
+}
+
+.a3{ 
+  border: 2px solid red;
+  padding: 0 0.5rem;
+  border-radius: 5px;
+  color: white;
+}
+
+.a3:hover{
+  box-shadow: 2px 2px 15px red;
+}
+
+
